@@ -15,8 +15,8 @@ h4{
 }
 
 body{
-    width: cover;
+    background-color: rgb(130, 221, 130);
 }
-.card-colunm{
-    box-shadow: 3px 3px 3px black;
+.column{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
