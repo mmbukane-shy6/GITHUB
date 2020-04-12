@@ -8,7 +8,7 @@
 
 This is a website that allows one to search for his/her github repositories
 
--live link to my website is
+-live link to my website is : https://mmbukane-shy6.github.io/GITHUB/
 
 ## Features
 
@@ -27,7 +27,7 @@ Behaviour input output page loads, reveals an interactive form that allows you t
 
 ## Setup/Installation Requirements
 
--Here is a run through of how to set up the application:
+-Here is a run through of how to set up the application: https://mmbukane-shy6.github.io/GITHUB/
 
 ~Step 1 : Clone this repository using the git clone link:
 
