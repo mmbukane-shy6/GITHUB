@@ -34,6 +34,20 @@ Behaviour input output page loads, reveals an interactive form that allows you t
 
 -none
 
+## Technologies Used
+
+-Angular CLI 8
+-HTML
+-CSS
+-Bootsrap
+
+## Contact Me
+
+This project was generated with Angular CLI version 9.0.7.
+
+## Development Server
+
+To contact me Kindly email sheilaegeidza@gmail.com
 <!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Development server
