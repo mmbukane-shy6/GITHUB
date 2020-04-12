@@ -1,6 +1,10 @@
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+}
 h4{
     text-align: center;
     font-family: 'Girassol', cursive;
@@ -10,3 +14,9 @@ h4{
     text-align: center;
 }
 
+body{
+    width: cover;
+}
+.jumbotron{
+    width: auto;
+}
