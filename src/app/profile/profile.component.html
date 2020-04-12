@@ -1,8 +1,9 @@
 <div class="container-slide">
     <div class="jumbotron">
-<h1><img src="https://bit.ly/2E1b76l" width="300px"></h1>
-<h4 class="git">"This is a search engine for github-accounts that allows the user to search for anyones account you can try"</h4>
-</div>
+        <h1><img src="https://bit.ly/2E1b76l" width="300px"></h1>
+        <h4 class="git">"This is a search engine for github-accounts that allows the user to search for anyones account
+            you can try"</h4>
+    </div>
 
 </div>
 <div class="container">
@@ -26,27 +27,28 @@
                     <li class="list-group-item" *ngIf="profile.email">{{profile.email}}</li>
                 </ul>
             </div>
-        </div>
-        <div class='row'>
-            <div class="col-sm-6">
-                <div>
-                    <hr>
+            <div class='row'>
+                <div class="col-sm-6">
+                    <div>
+                        <hr>
+                        <p>
+                            <span class="label" class="btn btn-success"> {{profile.followers}} Followers</span>&nbsp;
+
+                            <span class="label" class="btn btn-info"> {{profile.following}} Following </span>&nbsp;
+
+                            <span class="label" class="btn btn-primary"> {{profile.public_repos}} Repositories</span>
+                        </p>
+                        <hr>
+                        <hr>
+                    </div>
+
                     <p>
-                        <span class="label" class="btn btn-success"> {{profile.followers}} Followers</span>&nbsp;
-
-                        <span class="label" class="btn btn-info"> {{profile.following}} Following </span>&nbsp;
-
-                        <span class="label" class="btn btn-primary"> {{profile.public_repos}} Repositories</span>
+                        <a href="{{profile.html_url}}" target="_blank" class="m-3 btn btn-outline-warning">View profile
+                            on
+                            github</a>
                     </p>
                     <hr>
-                    <hr>
                 </div>
-                
-                <p>
-                    <a href="{{profile.html_url}}" target="_blank" class="m-3 btn btn-outline-warning">View profile on
-                        github</a>
-                </p>
-                <hr>
                 <h2>Repositories:</h2>
                 <div class="row">
                     <div class=" card-columns">
