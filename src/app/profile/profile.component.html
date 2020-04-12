@@ -15,12 +15,12 @@
     </form>
     <div *ngIf="profile">
         <div class="row">
-            <div class="col-sm-3">
+            <div class="col-md-3">
                 <img class="img" src="{{profile.avatar_url}}" class="img-fluid" alt="profile">
             </div>
             <br>
             <br>
-            <div class="col-sm-3">
+            <div class="col-md-3">
                 <ul class="list-group">
                     <li class="list-group-item" *ngIf="profile.bio">{{profile.bio}}</li>
                     <li class="list-group-item" *ngIf="profile.blog">{{profile.blog}}</li>
@@ -75,4 +75,7 @@
             </div>
         </div>
     </div>
+</div>
+<div class="card-footer">
+    <p>copyright © shilla Web Designs.</p>
 </div>
