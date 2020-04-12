@@ -15,8 +15,8 @@ h4{
 }
 
 body{
-    background-color: rgb(108, 112, 108);
+     background-color: rgb(108, 112, 108); 
 }
-.column{
+/* .column{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
+} */
