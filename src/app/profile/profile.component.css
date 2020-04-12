@@ -17,6 +17,6 @@ h4{
 body{
     width: cover;
 }
-.jumbotron{
-    width: auto;
+.card-colunm{
+    box-shadow: 3px 3px 3px black;
 }
