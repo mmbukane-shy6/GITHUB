@@ -1,6 +1,23 @@
-# Git
+# GITHUB-SEARCH
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+## Author
+
+-Sheila Egeidza
+
+## Description
+
+This is a website that allows one to search for his/her github repositories
+
+-live link to my website is
+
+## Features
+
+-Interactive webpage with a small explanation of what it does.
+-A form that enables the user to enter github name.
+-A Github portfolio of the user being entered in the form.
+-A view profile of the user on Github button
+-Finally the repositories of the user display in a column-card form.
+<!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Development server
 
@@ -24,4 +41,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md). -->
