@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+}
+h4{
+    text-align: center;
+    font-family: 'Girassol', cursive;
+
+}
+.card-footer{
+    text-align: center;
+}
+
+body{
+     background-color: rgb(108, 112, 108); 
+}
+/* .column{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+} */
